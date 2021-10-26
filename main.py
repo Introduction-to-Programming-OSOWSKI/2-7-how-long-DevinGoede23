@@ -1,3 +1,6 @@
+
+
 # test howLong() 
-str1 = "Deer Opener"
-print("The length = ", len(str1))
+def howLong(word):
+    return len(word)
+print (howLong("junk"))
