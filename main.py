@@ -1,4 +1,3 @@
-def howLong(w):
-    return howLong("jelly") 
-    2
-
+# test howLong() 
+str1 = "Deer Opener"
+print("The length = ", len(str1))
